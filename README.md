@@ -6,7 +6,7 @@ and machine learning.
 
 ---
 
-## Projects and Contributions
+## Projects
 
 - [CMSAC: Does Not Playing Hockey Make You Worse at Hockey?](https://github.com/m-sezgin/CMSAC-OHL-COVID-Impact): My most recent work, in which I researched the impact of the COVID-19 pandemic on developing junior hockey players with @jajovanovic. This work started June 2022 as part of the Carnegie Mellon Sports Analytics Camp (CMSAC) summer program, and concluded in January 2023.
 - [Teaching Machine Learning](https://github.com/m-sezgin/ml-portfolio): The final project for my computational machine learning class at Smith, and focuses on introducing machine learning concepts to students who have a basic understanding of statistics.
