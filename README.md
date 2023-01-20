@@ -1,7 +1,7 @@
 ## Hello!
 
 My name is Michele Sezgin (she/her) and I'm a senior at Smith College studying Computer Science 💻 
-and Statistical and Data Sciences 📊. My interests are in Sports Analytics, specifically hockey 🏒,
+and Statistical and Data Sciences 📊. My interests are in sports analytics, specifically hockey 🏒,
 and machine learning.
 
 ---
