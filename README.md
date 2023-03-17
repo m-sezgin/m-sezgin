@@ -8,7 +8,8 @@ and machine learning.
 
 ## Projects
 
-- [CMSAC: Does Not Playing Hockey Make You Worse at Hockey?](https://github.com/m-sezgin/CMSAC-OHL-COVID-Impact): My most recent work, in which I researched the impact of the COVID-19 pandemic on developing junior hockey players with @jajovanovic. This work started June 2022 as part of the Carnegie Mellon Sports Analytics Camp (CMSAC) summer program, and concluded in January 2023.
+-[Name TBD: Commonwealth v. Long R package](https://github.com/m-sezgin/comvlong): Assisting Professors Ben Baumer and Mary Fowler in development of an R package that generalizes the methods implemented in the Commonwealth v. Long case to determine the probability of individual police officer racial bias.
+- [CMSAC: Does Not Playing Hockey Make You Worse at Hockey?](https://github.com/m-sezgin/CMSAC-OHL-COVID-Impact): Research project investigating the impact of the COVID-19 pandemic on developing junior hockey players with @jajovanovic. This work started June 2022 as part of the Carnegie Mellon Sports Analytics Camp (CMSAC) summer program, and concluded in January 2023.
 - [Teaching Machine Learning](https://github.com/m-sezgin/ml-portfolio): The final project for my computational machine learning class at Smith, which focuses on introducing machine learning concepts to students who have a basic understanding of statistics.
 - [DSC-WAV Project SPIFFY](https://github.com/m-sezgin/proj-spiffy2022): A data dashboard that displays health and behavior trends for middle and high school students in Hampshire County, MA. Partnership with the SPIFFY Coalition.
 
