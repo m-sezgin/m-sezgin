@@ -1,8 +1,6 @@
 ## Hello!
 
-My name is Michele Sezgin (she/her) and I'm a senior at Smith College studying Computer Science 💻 
-and Statistical and Data Sciences 📊. My interests are in sports analytics, specifically hockey 🏒,
-and machine learning.
+My name is Michele Sezgin (she/her) and I'm currently employed as a Data Science Intern in the Baseball Operations Department of the Seattle Mariners Baseball Club ⚾️. My interests are in sports analytics (specifically hockey 🏒) machine learning, causal inference, and mixed models.
 
 ---
 
