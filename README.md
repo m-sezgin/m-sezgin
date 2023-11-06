@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Michele Sezgin (she/her) and I'm currently employed as a Data Science Intern in the Baseball Operations Department of the Seattle Mariners Baseball Club ⚾️. My interests are in sports analytics (specifically hockey 🏒) machine learning, causal inference, and mixed models.
+My name is Michele Sezgin (she/her) and I'm currently employed as a Data Science Intern in the Baseball Operations Department of the Seattle Mariners Baseball Club ⚾️. My interests are in sports analytics (specifically hockey 🏒), machine learning, causal inference, and mixed models.
 
 ---
 
